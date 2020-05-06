@@ -18,4 +18,13 @@ If you are interested to use the TOA estimator alone then you could find the fil
 Link to my paper https://ieeexplore.ieee.org/abstract/document/8902694
 
 ## Citation
-@INPROCEEDINGS{8902694,  author={U. {Saqib} and J. R. {Jensen}},  booktitle={2019 27th European Signal Processing Conference (EUSIPCO)},   title={Sound-based Distance Estimation for Indoor Navigation in the Presence of Ego Noise},   year={2019},  volume={},  number={},  pages={1-5},}
+@INPROCEEDINGS{
+    saqib2019,  
+    author={U. {Saqib} and J. R. {Jensen}},  
+    booktitle={2019 27th European Signal Processing Conference (EUSIPCO)},   
+    title={Sound-based Distance Estimation for Indoor Navigation in the Presence of Ego Noise},   
+    year={2019},  
+    volume={},  
+    number={},  
+    pages={1-5},
+}
